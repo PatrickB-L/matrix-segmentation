@@ -1,6 +1,6 @@
 # Segmentation d'une matrice
 
- - Petit exercice segmenter les différentes parties d'une matrice qui partagent la valeur 1:
+ - Petit exercice pour segmenter les différentes parties d'une matrice qui partagent la valeur 1:
 
 
 
